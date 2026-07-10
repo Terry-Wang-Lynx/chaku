@@ -1,6 +1,6 @@
 # ChaKu
 
-ChaKu is a cute-cool lynx perched in a glossy white porcelain teacup, packaged as a Codex v2 pet. Its refined animation keeps the cup rigid and stationary while the lynx performs clearly staged, naturally paced actions.
+ChaKu is a cute-cool lynx perched in a glossy white porcelain teacup, packaged as a Codex v2 pet. The cup remains rigid and stationary while ChaKu moves with articulated paws and shoulders, independent ear reactions, feline weight transfer, anticipation, follow-through, and eased settles.
 
 ## Install
 
