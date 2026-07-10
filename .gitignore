@@ -1,0 +1,4 @@
+# Keep local QA and intermediate render artifacts out of the public package.
+outputs/
+work/
+.DS_Store
